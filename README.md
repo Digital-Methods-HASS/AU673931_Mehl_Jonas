@@ -54,6 +54,7 @@ adl_dataset_stopwords.txt: List of stopwords for the corpus, made by The Danish 
 1. Download the dataset from the Danish Royal Library.
 2. Unzip the dataset into the `data` folder.
 4. Run `TF-IDF.R` in RStudio
+5. Download the figures in RStudio
 
 ### Expected folder structure
 
