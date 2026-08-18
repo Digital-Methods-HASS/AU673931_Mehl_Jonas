@@ -46,8 +46,6 @@ https://www.kb.dk/en/services/cultural-heritage-research-and-study/cultural-heri
 2. Unzip the dataset into the `data` folder.
 4. Run `TF-IDF.R` in RStudio
 
-The script will process the XML texts, calculate TF-IDF values for the three periods, and generate the visualisations used in the report.
-
 ### Expected folder structure
 
 After downloading and unzipping the dataset, the project should contain the data in the following general structure:
