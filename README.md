@@ -67,5 +67,4 @@ After downloading and unzipping the dataset, the project should contain the data
 │           ├── adl_dataset_metadata.csv
 │           ├── adl_dataset_stopwords.txt
 │           └── *.xml
-├── TF-IDF.R
-└── README.md
+└── TF-IDF.R
