@@ -40,6 +40,15 @@ More information about the creation of the dataset can be found at:
 
 https://www.kb.dk/en/services/cultural-heritage-research-and-study/cultural-heritage-data-and-datasets/archive-danish-literature
 
+**Metadata description**
+
+adl_dataset_metadata.csv: Contains metadata of the .xml files:
+title, place, year, author, birth year, death year, xml file name, url
+
+adl_dataset_stopwords.txt: List of stopwords for the corpus, made by The Danish Royal Library
+
+*.xml: The .xml files contain the text of the works deskribed by the metadata file
+
 ## To run
 
 1. Download the dataset from the Danish Royal Library.
