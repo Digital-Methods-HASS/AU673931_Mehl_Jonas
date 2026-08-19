@@ -7,7 +7,7 @@ library(ggwordcloud)
 
         
 #Unzip data set in the data folder. Data is loaded
-adl <- read.csv2("data/public_domain_adl_dataset/mekuni_adl_dataset/adl_dataset_metadata.csv")
+adl <- read.csv("data/public_domain_adl_dataset/mekuni_adl_dataset/adl_dataset_metadata.csv")
 
 
 
